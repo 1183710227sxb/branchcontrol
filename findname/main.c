@@ -7,7 +7,7 @@ int main()
     char *namedb[] = {"abc", "bbc", "ccc", "Hello", "John", "Tome"};
     char name[100];
     int i;
-
+    printf("B3修改");
     printf("请输入一行字符：");
     gets(name);
 
