@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542370322 source:d:\project\找最大最小\main.c
+	<stdio.h>
+	<stdlib.h>
+
